@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/Jokeisty/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This repository contains the IBM DevOps Capstone Project.
 
 ## Project Overview
